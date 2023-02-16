@@ -7,7 +7,7 @@ export default function Home() {
     }, []);
     return (
         <div className={styles.wrapper}>
-            <h1>MAM Baby Show</h1>
+            <h1>Nextron Boilerplate</h1>
         </div>
     );
 }
