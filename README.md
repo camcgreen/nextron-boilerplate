@@ -1,3 +1,7 @@
+## Create a new repo using this boilerplate by clicking the 'Use this template' button on the top right of this page.
+
+## Then just clone it using GitHub Desktop
+
 <p align="center"><img src="https://i.imgur.com/X7dSE68.png"></p>
 
 ## Usage
